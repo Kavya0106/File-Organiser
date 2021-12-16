@@ -1,0 +1,8 @@
+Here we have to create one project 
+which will show our files content 
+operation are 
+-n  print or add all the numbers in the file while printing 
+-s remove larger spaces and add one space after each line 
+-b print numbers only on non empty line 
+>> use to copy the file and if not there crerate on file 
+> use to replace the earlier content with the passed content
